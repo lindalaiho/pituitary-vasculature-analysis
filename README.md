@@ -1,4 +1,4 @@
-### Code to for segmenting and deriving metrics from the vasculature in the anterior pituitary lobe processed by iDISCO+
+### Code to segment and derive metrics from the vasculature in the anterior pituitary lobe processed by iDISCO+
 
 Pipeline steps:
 1. Transform images to be in the same orientation: transform_pituitary_input_images.py
